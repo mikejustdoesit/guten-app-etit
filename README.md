@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Mike and this is my masterpiece bubbeeeeeeeee! this app is gonna be the Gateway to the knowdlege of programming, coding and everything else that I know how to do!
 
 Things you may want to cover:
 
